@@ -1,0 +1,6 @@
+1- Utgan darsni bir takrorlash
+2- Fs moduli
+3- Os moduli
+4- Http modul 
+5- Server yaratish
+6- request va response haqida tushuncha
